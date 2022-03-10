@@ -1,4 +1,4 @@
-module github.com/BRO3886/grpc-go
+module github.com/BRO3886/grpc-go-example
 
 go 1.17
 

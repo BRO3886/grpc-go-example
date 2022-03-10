@@ -6,7 +6,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/BRO3886/grpc-go/addressbook"
+	"github.com/BRO3886/grpc-go-example/addressbook"
 	"google.golang.org/grpc"
 	"google.golang.org/protobuf/types/known/emptypb"
 )

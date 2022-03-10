@@ -5,7 +5,7 @@ import "google/protobuf/timestamp.proto";
 import "google/protobuf/empty.proto";
 // import "google/api/annotations.proto";
 
-option go_package = "github.com/BRO3886/grpc-go/addressbook";
+option go_package = "github.com/BRO3886/grpc-go-example/addressbook";
 
 message Person {
     string name = 1;
